@@ -1,1 +1,1 @@
-This is just a reference file.
+This API is being developed using a Java backend with a PostgreSQL database to allow users to store their data, browse books, and add them to their shopping cart. Branch consolidation is still in progress.
